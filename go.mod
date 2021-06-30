@@ -1,3 +1,3 @@
-module github.com/aqaurius6666/go-playground/greeting
+module github.com/aquarius6666/go-playground
 
 go 1.13
